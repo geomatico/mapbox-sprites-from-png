@@ -1,0 +1,17 @@
+{
+  "name": "png_sprites",
+  "version": "0.1.0",
+  "description": "Generates mapbox-gl sprites from a collection of png images",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Oscar Fonts <oscar.fonts@geomatico.es>",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "glob": "^7.1.6",
+    "jimp": "^0.16.1",
+    "spritesmith": "^3.4.0"
+  }
+}
